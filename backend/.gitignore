@@ -1,0 +1,10 @@
+__pycache__
+storage
+chromadb
+.env
+output
+backend/data/image/
+backend/data/script/
+backend/data/stack/
+backend/data/staging/
+backend/data/workload/
